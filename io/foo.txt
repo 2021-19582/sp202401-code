@@ -1,0 +1,16 @@
+cpstdin
+cpstdin.c
+dummy.txt
+foo.txt
+foobar.txt
+myDummy
+pp10-1
+pp10-1.c
+pp10-2
+pp10-2.c
+pp10-3
+pp10-3.c
+readdir
+readdir.c
+statcheck
+statcheck.c
